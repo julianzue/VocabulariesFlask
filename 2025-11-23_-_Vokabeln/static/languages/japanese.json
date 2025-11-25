@@ -1,0 +1,212 @@
+[
+    {
+        "date": "2025-11-23 17:56:02",
+        "word": "\u65e5\u672c\u8a9e",
+        "translation": "Japanisch",
+        "pronounciation": "Nihongo"
+    },
+    {
+        "date": "2025-11-23 18:02:24",
+        "word": "\u3053\u3093\u306b\u3061\u306f\u3001\u304a\u5144\u3055\u3093\u3002",
+        "translation": "Hallo mein Bruder",
+        "pronounciation": "Konnichiwa, oniisan."
+    },
+    {
+        "date": "2025-11-23 18:03:55",
+        "word": "\u660e\u65e5\u3001\u4ed5\u4e8b\u3092\u3057\u307e\u3059\u3002",
+        "translation": "Morgen arbeite ich.",
+        "pronounciation": "Ashita, shigoto o shimasu."
+    },
+    {
+        "date": "2025-11-23 18:17:06",
+        "word": "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3092\u3059\u308b\u306e\u304c\u597d\u304d\u3067\u3059\u3002",
+        "translation": "Ich programmiere gerne.",
+        "pronounciation": "Puroguramingu o suru no ga suki desu."
+    },
+    {
+        "date": "2025-11-23 18:19:19",
+        "word": "\u79c1\u306e\u597d\u304d\u306a\u8272\u306f\u8d64\u3067\u3059\u3002",
+        "translation": "Meine Lieblingsfarbe ist rot.",
+        "pronounciation": "Watashi no sukinairo wa akadesu."
+    },
+    {
+        "date": "2025-11-23 18:20:33",
+        "word": "\u3082\u3046\u3059\u3050\u30af\u30ea\u30b9\u30de\u30b9\u304c\u3084\u3063\u3066\u6765\u307e\u3059\u3002",
+        "translation": "Bald ist Weihnachten.",
+        "pronounciation": "M\u014dsugukurisumasu ga yattekimasu."
+    },
+    {
+        "date": "2025-11-25 06:26:42",
+        "word": "\u4eca\u65e5\u306f\u5b66\u6821\u306b\u884c\u304d\u307e\u3059\u3002",
+        "translation": "Heute gehe ich zur Schule.",
+        "pronounciation": "Ky\u014d wa gakk\u014d ni ikimasu."
+    },
+    {
+        "date": "2025-11-25 06:28:54",
+        "word": "\u79c1\u306e\u540d\u524d\u306f\u30b8\u30e5\u30ea\u30a2\u30f3\u3067\u3059\u3002",
+        "translation": "Mein name ist Julian.",
+        "pronounciation": "Watashi no namae ha Jurian desu."
+    },
+    {
+        "date": "2025-11-25 06:32:44",
+        "word": "\u304a\u9858\u3044\u3057\u307e\u3059",
+        "translation": "Bitte",
+        "pronounciation": "Onegai shimasu"
+    },
+    {
+        "date": "2025-11-25 06:33:00",
+        "word": "\u3054\u3081\u3093\u306a\u3055\u3044",
+        "translation": "Es tut mir leid.",
+        "pronounciation": "Gomen nasai"
+    },
+    {
+        "date": "2025-11-25 06:33:17",
+        "word": "\u3059\u307f\u307e\u305b\u3093",
+        "translation": "Entschuldigung",
+        "pronounciation": "Sumimasen"
+    },
+    {
+        "date": "2025-11-25 06:33:36",
+        "word": "\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059",
+        "translation": "Vielen Dank",
+        "pronounciation": "Arigat\u014d gozaimasu"
+    },
+    {
+        "date": "2025-11-25 06:33:51",
+        "word": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
+        "translation": "Gute Nacht",
+        "pronounciation": "Oyasumi nasai"
+    },
+    {
+        "date": "2025-11-25 06:34:07",
+        "word": "\u3053\u3093\u3070\u3093\u306f",
+        "translation": "Guten Abend",
+        "pronounciation": "Konbanwa"
+    },
+    {
+        "date": "2025-11-25 06:34:22",
+        "word": "\u3053\u3093\u306b\u3061\u306f",
+        "translation": "Guten Tag",
+        "pronounciation": "Konnichiwa"
+    },
+    {
+        "date": "2025-11-25 06:45:34",
+        "word": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059",
+        "translation": "Guten Morgen",
+        "pronounciation": "Ohay\u014d gozaimasu"
+    },
+    {
+        "date": "2025-11-25 06:45:52",
+        "word": "\u306f\u3044",
+        "translation": "Ja",
+        "pronounciation": "Hai"
+    },
+    {
+        "date": "2025-11-25 06:46:02",
+        "word": "\u3044\u3044\u3048",
+        "translation": "Nein",
+        "pronounciation": "Iie"
+    },
+    {
+        "date": "2025-11-25 06:46:19",
+        "word": "\u3044\u305f\u3060\u304d\u307e\u3059",
+        "translation": "Ich nehme dankend an.",
+        "pronounciation": "Itadakimasu"
+    },
+    {
+        "date": "2025-11-25 06:46:40",
+        "word": "\u3054\u3061\u305d\u3046\u3055\u307e\u3067\u3057\u305f",
+        "translation": "Vielen Dank f\u00fcr das Essen.",
+        "pronounciation": "Gochis\u014d sama deshita"
+    },
+    {
+        "date": "2025-11-25 06:47:12",
+        "word": "\u3044\u3063\u3066\u304d\u307e\u3059",
+        "translation": "Ich gehe.",
+        "pronounciation": "Ittekimasu"
+    },
+    {
+        "date": "2025-11-25 06:47:27",
+        "word": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044",
+        "translation": "Geh und komm gut wieder.",
+        "pronounciation": "Itte rasshai"
+    },
+    {
+        "date": "2025-11-25 06:47:42",
+        "word": "\u305f\u3060\u3044\u307e",
+        "translation": "Ich bin wieder da.",
+        "pronounciation": "Tadaima"
+    },
+    {
+        "date": "2025-11-25 06:48:00",
+        "word": "\u304a\u304b\u3048\u308a\u306a\u3055\u3044",
+        "translation": "Willkommen zur\u00fcck.",
+        "pronounciation": "Okaeri nasai"
+    },
+    {
+        "date": "2025-11-25 06:48:16",
+        "word": "\u304a\u3052\u3093\u304d\u3067\u3059\u304b",
+        "translation": "Wie geht es Ihnen?",
+        "pronounciation": "Ogenki desu ka?"
+    },
+    {
+        "date": "2025-11-25 06:48:29",
+        "word": "\u3052\u3093\u304d\u3067\u3059",
+        "translation": "Mir geht es gut.",
+        "pronounciation": "Genki desu."
+    },
+    {
+        "date": "2025-11-25 06:48:41",
+        "word": "\u307e\u305f\u306d",
+        "translation": "Bis dann.",
+        "pronounciation": "Mata ne"
+    },
+    {
+        "date": "2025-11-25 06:48:56",
+        "word": "\u304a\u3064\u304b\u308c\u3055\u307e\u3067\u3057\u305f",
+        "translation": "Danke f\u00fcr Ihre harte Arbeit.",
+        "pronounciation": "Otsukaresama deshita"
+    },
+    {
+        "date": "2025-11-25 06:51:50",
+        "word": "\u3069\u3046\u3044\u305f\u3057\u307e\u3057\u3066\uff01",
+        "translation": "Gern geschehen!",
+        "pronounciation": "D\u014d itashimashite!"
+    },
+    {
+        "date": "2025-11-25 06:52:57",
+        "word": "\u51c4\u3044",
+        "translation": "toll",
+        "pronounciation": "Sugoi"
+    },
+    {
+        "date": "2025-11-25 06:54:13",
+        "word": "\u3059\u307f\u307e\u305b\u3093\u3001[Ort]\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+        "translation": "Entschuldigung, wo ist [Ort]?",
+        "pronounciation": "Sumimasen, [Ort] wa doko desu ka?"
+    },
+    {
+        "date": "2025-11-25 06:54:34",
+        "word": "\u3069\u3053\u3067\u3059\u304b\uff1f",
+        "translation": "Wo ist es?",
+        "pronounciation": "Doko desu ka?"
+    },
+    {
+        "date": "2025-11-25 06:56:18",
+        "word": "\u30d3\u30fc\u30eb\u3092\u98f2\u307f\u307e\u3059\u3002",
+        "translation": "Ich trinke Bier.",
+        "pronounciation": "B\u012bru o nomimasu."
+    },
+    {
+        "date": "2025-11-25 06:57:31",
+        "word": "\u6c34 \u3092 \u98f2\u307f\u307e\u3059 \u304b\uff1f",
+        "translation": "Trinken Sie Wasser?",
+        "pronounciation": "Mizu o nomimasu ka?"
+    },
+    {
+        "date": "2025-11-25 06:58:06",
+        "word": "\u304a\u8336 \u304c \u597d\u304d\u3067\u3059\u3002",
+        "translation": "Ich mag Tee.",
+        "pronounciation": "O-cha ga suki desu."
+    }
+]

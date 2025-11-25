@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2025-11-23 19:12:48",
+        "word": "Hello",
+        "translation": "Hallo",
+        "pronounciation": "helou"
+    },
+    {
+        "date": "2025-11-23 19:14:12",
+        "word": "Goodbye",
+        "translation": "Auf wiedersehen",
+        "pronounciation": "gudbai"
+    },
+    {
+        "date": "2025-11-23 19:18:26",
+        "word": "How are you?",
+        "translation": "Wie geht es dir?",
+        "pronounciation": "hau a: ju"
+    },
+    {
+        "date": "2025-11-23 19:23:46",
+        "word": "House",
+        "translation": "Haus",
+        "pronounciation": "haus"
+    }
+]

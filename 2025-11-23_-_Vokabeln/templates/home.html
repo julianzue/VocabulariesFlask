@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Languages - Vocabularies</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <header>
+        <p>Vocabularies</p>
+    </header>
+
+    <section>
+        <article>
+            <div class="head flex">
+                <p>Languages</p>
+                <a href="/add" class="add">Add</a>
+            </div>
+
+            <div class="body list">
+                {% for lang in languages %}
+                    <div class="item">
+                        <a href="/language/{{ lang }}">
+                            <p>{{ lang.capitalize() }}</p>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </article>
+    </section>
+    
+</body>
+</html>

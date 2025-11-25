@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+
+body{
+    background-color: #d7d7d7;
+}
+
+header{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+section{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+}
+
+article{
+    margin: 20px;
+}
+
+article .head{
+    background: #555;
+    color: white;
+    padding: 20px;
+}
+
+article .head .add{
+    color: lime;
+    text-decoration: none;
+}
+
+article .head .back{
+    color: red;
+    text-decoration: none;
+}
+
+article .body{
+    padding: 20px;
+    background: white;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form-new-lang{
+    display: flex;
+    gap: 10px;
+}
+
+.input-text{
+    padding: 10px;
+    border: 1px solid #555;
+    width: 100%;
+    outline: none;
+}
+
+.input-submit{
+    padding: 10px 20px;
+    border: none;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
+
+.item{
+    padding: 5px;
+    border: 1px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    width: calc(100% - 10px);
+}
+
+.data{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.item a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.links{
+    display: flex;
+    gap: 20px;
+}
+
+.date{
+    color: #777;
+    font-size: small;
+}
+
+.word{
+    width: 100%;
+}
+
+.translation{
+    width: 100%;
+}
+
+.pronounciation{
+    width: 100%;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.search{
+    padding: 20px;
+    background: #eee;
+}
+
+.form-search{
+    display: flex;
+    gap: 10px;
+}
+
+
+
+@media screen and (max-width: 900px) {
+    .form-new-lang{
+        flex-direction: column;
+    }
+
+    .input-text{
+        width: calc(100% - 22px);
+    }
+
+    .data{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+}
